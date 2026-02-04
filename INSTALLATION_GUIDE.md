@@ -25,7 +25,7 @@ Install the **Power CAT Tools** solution from Microsoft AppSource into your Powe
 
 - Click Solutions in the left rail
   
-<img width="327" height="66" alt="image" src="https://github.com/user-attachments/assets/7983da4b-aa21-46a2-bdf3-1eb07d74c4ef" />
+![image](https://github.com/user-attachments/assets/7983da4b-aa21-46a2-bdf3-1eb07d74c4ef)
 
 
 ---
@@ -33,7 +33,7 @@ Install the **Power CAT Tools** solution from Microsoft AppSource into your Powe
 ### 3. Access Microsoft AppSource
 
 - In the command bar, click "[Open AppSource](http://aka.ms/AppSourcePPApps)"
-  <img width="976" height="630" alt="image" src="https://github.com/user-attachments/assets/08062f94-20c0-4f72-8c0b-1545dda4982d" />
+  ![image](https://github.com/user-attachments/assets/08062f94-20c0-4f72-8c0b-1545dda4982d)
 
 - A new tab will open and load the Power Platform area of the Microsoft Marketplace (AppSource)
 
